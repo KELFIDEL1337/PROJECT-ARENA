@@ -1,0 +1,11 @@
+{
+  "name": "project-arena",
+  "version": "0.1.0",
+  "description": "AI-powered football gaming platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "KELFIDEL1337",
+  "license": "MIT"
+}
